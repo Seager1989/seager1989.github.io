@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Xianping Du joined the Sun Yat-Sen University (SYSU) in January 2022 as Associate Professor in the School of Marine Engineering and Technology (https://soet.sysu.edu.cn/). His research focuses on AI-driven structural and multidiciplinary design analysis and optimization. Additionally, he is interested in the structural crashworhiness and dynamical behaviors.
+Dr. Xianping Du joined the Sun Yat-Sen University (SYSU) in January 2022 as Associate Professor in the School of Ocean Engineering and Technology ([SOET](https://soet.sysu.edu.cn/)). His research focuses on AI-driven structural and multidiciplinary design analysis and optimization. Additionally, he is interested in the structural crashworhiness and dynamical behaviors.
 
 Prior to joining SYSU, Dr. Xu worked in Rutgers University, USA (2020-2022). He was working on a US DOE supported project for the development of a control co-design platform for floaitng offshore wind turbines (FOWT) with multi-fidelity simulation methods. In addition, he also involved in the FOCAL project for validating the software platform using the FOWT model experiments.
 
