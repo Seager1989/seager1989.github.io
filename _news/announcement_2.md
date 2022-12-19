@@ -9,8 +9,8 @@ Our students have applied and approved two projects of College Students' Innovat
 
 ***
 
-#### Project#1 
-## Member: 
+## Project#1 
+#### Member: 
 <ul>
     <li>Yuchuan Yan (Leader, Grade2021)</li>
     <li>Huan Du (Grade2021)</li>
@@ -19,15 +19,15 @@ Our students have applied and approved two projects of College Students' Innovat
     <li>Chengliang Liu (Grade2022)</li>
 </ul>
 
-## Aims:
+#### Aims:
 <ul>
     <li>To Investigate the material failure modes of wind turbines blade as crashing with a mainteance UAV</li>
     <li>To recognize the failure modes by well know interpretable machine learning algorithm, random forest</li>
     <li>To develop a new random forest algorithm for learning from engineering uncertain data</li>
 </ul>
 
-#### Project#2
-## Member: 
+## Project#2
+#### Member: 
 <ul>
     <li>Jianbo Yi(Leader, Grade2021)</li>
     <li>Shiting Wang (Grade2021)</li>
@@ -36,7 +36,7 @@ Our students have applied and approved two projects of College Students' Innovat
     <li>Guosheng Yu (Grade2021)</li>
 </ul>
 
-## Aims:
+#### Aims:
 <ul>
     <li>To investigate the dynamic behaviors of floating offshore wind turbine platform under varied damping of TMD structural control by model experiments</li>
     <li>To develop the contruction scheme for configuring different control strategies conveniently for platform</li>
