@@ -1,31 +1,44 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2022-08-19 16:11:00-0400
+title: Congratulates my students on the two approved projects of CSIETPP
+date: 2022-12-17 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Our students have applied and approved two projects of College Students' Innovative Entrepreneurial Training Plan Program (CSIETPP). They are related to the mainteance and design of the floating offshore wind turbines. Details can refer to the following statements.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+#### Project#1 
+## Member: 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Yuchuan Yan (Leader, Grade2021)</li>
+    <li>Huan Du (Grade2021)</li>
+    <li>Xiaoyi Chen (Grade2021)</li>
+    <li>Kuanyou Sun (Grade2020)</li>
+    <li>Chengliang Liu (Grade2022)</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+## Aims:
+<ul>
+    <li>To Investigate the material failure modes of wind turbines blade as crashing with a mainteance UAV</li>
+    <li>To recognize the failure modes by well know interpretable machine learning algorithm, random forest</li>
+    <li>To develop a new random forest algorithm for learning from engineering uncertain data</li>
+</ul>
 
-***
+#### Project#2
+## Member: 
+<ul>
+    <li>Jianbo Yi(Leader, Grade2021)</li>
+    <li>Shiting Wang (Grade2021)</li>
+    <li>WenXu Liu (Grade2022)</li>
+    <li>Junwei Gao (Grade2022)</li>
+    <li>Guosheng Yu (Grade2021)</li>
+</ul>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+## Aims:
+<ul>
+    <li>To investigate the dynamic behaviors of floating offshore wind turbine platform under varied damping of TMD structural control by model experiments</li>
+    <li>To develop the contruction scheme for configuring different control strategies conveniently for platform</li>
+    <li>To extablish the technical route by circulating water channel experiment using a 3D printed demo</li>
+</ul>

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-08-19 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Dr. Du delivered a presentation on "[ICFDM2022](http://icfdm2022.jlu.edu.cn/webinfo/viewchina?id=337)" in Changchun, China.
