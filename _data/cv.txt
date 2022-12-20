@@ -15,18 +15,13 @@
       institution: Embry-Riddle Aeronautical University, Daytona Beach, Florida, USA
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Developed a new interpretable methodology for the design of hierarchical and complex systems based on data mining
+        - Established a new uncertian machine learning algorithm (decision tree) for learning uncertian data
+        - Applied the new method to the design of vehicle structures with engineering uncertianty considered
     - title: MS
       institution: Hunan University, Changsha, China
       year: 2015
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
